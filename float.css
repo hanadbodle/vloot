@@ -1,0 +1,206 @@
+*{  padding: 0;
+	margin: 0;}
+	
+
+	body{
+
+	background-image: url(vloot-background.png); 
+	background-repeat:repeat-x;
+	margin: 0px;
+	font-family: arial;
+}
+
+
+h2{
+	padding: 0px;
+	margin-top: 0px;
+	line-height: 24px;
+	margin-left: 20px;
+
+}
+
+
+p{
+	line-height: 12px;
+	margin-left: 20px
+}
+
+div.middle{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: 660px;
+    height: 600px;
+    padding-top: 1px;
+    padding: 20px;
+
+}
+
+div.top{
+	
+	text-align:left;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right:auto;
+	background-image: url(header.jpg);
+	background-size: cover;
+	height: 270px;
+	line-height: 40px;
+	width: 700px;
+	padding-bottom: 0px;
+
+
+}
+
+
+
+h5{
+	color: white
+	
+}
+
+
+div.left{
+	
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 300px;
+	margin-right:300px;
+	float: right;
+	background color: blue
+
+}
+
+a{
+
+	color: white;
+	text-decoration: none;
+}
+
+
+a:hover{
+	color: #7FFFD4;
+
+
+}
+
+ul{
+	margin-top: 140px;
+
+}
+
+ul li{
+
+	display: inline-block;
+	margin-left: 20px;
+}	
+
+div.link{
+	padding: 40px;
+	padding-left: 10px;
+}
+
+
+
+div.vloot0{
+	
+	float: left;
+	border:25px solid;
+	border-color:white;
+	
+}
+
+
+
+div.vloot1{
+	float: left;
+	padding-right:15px;
+}
+
+
+
+div.vloot2{
+	float:right;
+	padding-right: 15px;
+	padding-bottom:0px;
+	padding-top: 20px;
+	padding-left: 15px
+
+}
+
+div.vloot3{
+
+	float: left;
+	padding-right: 15px;
+	padding-bottom:30px;
+	padding-top: 5px;
+
+
+}
+
+div.vloot4{
+	float: left;
+	padding-right: 15px;
+	padding-bottom:30px;
+	padding-top: 5px;
+
+
+}
+
+div.vloot5{
+	padding-right: 15px;
+	padding-bottom:30px;
+	padding-top: 5px;
+
+}
+
+.vloot6{
+	float: right;
+	padding-right: 15px;
+	padding-bottom:30px;
+	padding-top: 5px;
+
+}
+
+.vloot7{
+
+	float: right;
+	padding-right: 15px;
+	padding-bottom:30px;
+	padding-top: 5px;
+	padding-left: 15px;
+}
+
+.vloot8{
+	
+	float: left;
+	padding-right: 15px;
+	padding-bottom:30px;
+	padding-top: 15px;
+
+}
+
+.vloot9{
+	
+	float: left;
+	padding-right: 15px;
+	padding-bottom:30px;
+	padding-top: 15px;
+}
+.vloot10{
+	
+	float: left;
+	padding-right: 15px;
+	padding-bottom:30px;
+	padding-top: 5px;
+
+}
+
+.vloot11{
+	
+	float: right;
+	padding-right: 5px;
+	padding-bottom:30px;
+	padding-top: 10px;
+	padding-left: 15px;
+}
